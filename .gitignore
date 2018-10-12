@@ -5,3 +5,5 @@ RemoteSystemsTempFiles/
 enviadorEmail/enviadorEmail/mvnw
 *.cmd
 enviadorEmail/enviadorEmail/.mvn/
+enviadorEmail/.mvn/
+enviadorEmail/mvnw
