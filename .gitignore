@@ -2,3 +2,6 @@
 .recommenders/
 RemoteSystemsTempFiles/
 *.prefs
+enviadorEmail/enviadorEmail/mvnw
+*.cmd
+enviadorEmail/enviadorEmail/.mvn/
